@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/app_wrapper/app_dialog.cpp \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/app_wrapper/app_main.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPlugOSDetect.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/swell/swell.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/swell/swell-types.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/swell/swell-functions.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/wdltypes.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/rtaudiomidi/RtAudio.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/rtaudiomidi/RtError.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/rtaudiomidi/RtMidi.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/app_wrapper/../MyFirstPlugin.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPlug_include_in_plug_hdr.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/resource.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/app_wrapper/../app_wrapper/app_resource.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPlugStandalone.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPlugBase.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/Containers.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../mutex.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../wdlstring.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/heapbuf.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/wdlstring.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../ptrlist.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../wdlendian.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPlugStructs.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../swell/swell.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../lice/lice_text.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/../lice/lice.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IParam.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/Hosts.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/Log.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/NChanDelay.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IGraphicsMac.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IGraphics.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IPopupMenu.h \
+  /Users/Bayne/Documents/programming_projects/plugin_dev/wdl-ol/IPlugExamples/MyFirstPlugin/../../WDL/IPlug/IControl.h
