@@ -65,6 +65,7 @@ void MyFirstPlugin::Reset()
 {
   TRACE;
   IMutexLock lock(this);
+
 }
 
 void MyFirstPlugin::OnParamChange(int paramIdx)
