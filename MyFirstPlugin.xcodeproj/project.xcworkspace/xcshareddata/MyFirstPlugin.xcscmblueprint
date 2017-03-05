@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7347BD7456C65353EC5DC17E3F3D16271AB6ECFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7347BD7456C65353EC5DC17E3F3D16271AB6ECFC" : 0,
+    "11B94510860470908E89574702597330C32284A3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BC04084-7C2F-4039-8B6B-C84AA4CD85A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7347BD7456C65353EC5DC17E3F3D16271AB6ECFC" : "MyFirstPlugin\/",
+    "11B94510860470908E89574702597330C32284A3" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyFirstPlugin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyFirstPlugin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/olilarkin\/wdl-ol",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11B94510860470908E89574702597330C32284A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keenandubois\/VST-AU-plugins.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7347BD7456C65353EC5DC17E3F3D16271AB6ECFC"
+    }
+  ]
+}
