@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyFirstPlugin.cpp"
-            timestampString = "510448397.126248"
+            timestampString = "510554932.091339"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "68"
-            endingLineNumber = "68"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
             landmarkName = "MyFirstPlugin::Reset()"
             landmarkType = "5">
          </BreakpointContent>

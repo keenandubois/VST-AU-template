@@ -1,5 +1,8 @@
 #include "MyFirstPlugin.h"
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wmain"
 #include "IPlug_include_in_plug_src.h"
+#pragma clang diagnostic pop
 #include "IControl.h"
 #include "resource.h"
 
